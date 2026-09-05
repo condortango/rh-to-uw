@@ -99,3 +99,8 @@ The text file and `docs/index.html` must both match a fresh build, and the
 link must stay under 32,768 bytes. The `build-output` test checks all of it.
 The other tests run the module and the built link against a hand-rolled fake
 DOM built from the fixtures.
+
+## License
+
+MIT. See `LICENSE`.
+
